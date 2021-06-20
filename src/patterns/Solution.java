@@ -38,7 +38,7 @@ class Audi implements Car {
 class BMW implements Car {
     @Override
     public void drive() {
-        System.out.println("drive BMW");
+        System.out.println("drive BMW!");
     }
 }
 
