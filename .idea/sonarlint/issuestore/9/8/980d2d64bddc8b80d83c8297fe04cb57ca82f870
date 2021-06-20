@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿øˆèúÿÿÿÿ8¢íÌŞ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.( °âÙ8¡¥ÆŞ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(®ÛÁĞıÿÿÿÿ8Œ¯ƒ˜/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú‡§‹8¢‡ÏŞ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(î°È‹şÿÿÿÿ8Æë…ƒ˜/
+s
+java:S4276
+"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¶†×€8Á·ÅŞ/

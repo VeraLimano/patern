@@ -1,0 +1,6 @@
+
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(Š´ÕÛ8ÆÔ„¡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ú„±³ /
+Y
+java:S1128	"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8˜áâ³ /
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8é¦½µ /
