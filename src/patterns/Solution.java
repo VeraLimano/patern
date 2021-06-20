@@ -31,14 +31,14 @@ interface Car {
 class Audi implements Car {
     @Override
     public void drive() {
-        System.out.println("drive Audi");
+        System.out.println("Drive Audi");
     }
 }
 
 class BMW implements Car {
     @Override
     public void drive() {
-        System.out.println("drive BMW");
+        System.out.println("Drive BMW");
     }
 }
 
